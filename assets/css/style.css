@@ -6376,3 +6376,6 @@ header .form-inline .search-form.close {
 .chart_size{
   height: 70x;
 }
+.status_user{
+  width:100%;
+}
