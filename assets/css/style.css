@@ -6374,8 +6374,11 @@ header .form-inline .search-form.close {
   }
 }
 .chart_size{
-  height: 70x;
+  height: 70px;
 }
 .status_user{
   width:100%;
+}
+.username{
+  color:black;
 }
